@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndividualTask_Shovkun_Variant1_PR1", "IndividualTask_Shovkun_Variant1_PR1.csproj", "{FD2D6886-7FC4-4DB8-A43E-99A4F18C0A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2D6886-7FC4-4DB8-A43E-99A4F18C0A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2D6886-7FC4-4DB8-A43E-99A4F18C0A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2D6886-7FC4-4DB8-A43E-99A4F18C0A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2D6886-7FC4-4DB8-A43E-99A4F18C0A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC460E2-915F-441A-B622-A73C85405070}
+	EndGlobalSection
+EndGlobal
